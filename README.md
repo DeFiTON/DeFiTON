@@ -10,7 +10,7 @@ Entrepreneur in the Web3 business space with interests in IT. Passionate about i
 - [VK](https://vk.com/gusevlive)
 - [Figma](https://www.figma.com/@gusev)
 - [Behance](https://www.behance.net/sviatoshusiev)
-- [Pocket](https://getpocket.com/@Sviatoslav)
+- [TenChat](https://tenchat.ru/gusev)
 - [Pinterest](https://ru.pinterest.com/gusevlive/)
 
 ## 👨‍💻 What do I do?
