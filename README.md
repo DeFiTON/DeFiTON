@@ -1,3 +1,6 @@
+# 🎓 Entrepreneur
+Entrepreneur in the Web3 business space with interests in IT. Passionate about innovation and growth in the rapidly evolving tech industry. 
+
 ## 📫 How to contact me?
 
 - [Twitter](https://twitter.com/gusevlife)
@@ -8,11 +11,8 @@
 - [Figma](https://www.figma.com/@gusev)
 - [Behance](https://www.behance.net/sviatoshusiev)
 
-## 🎓 Entrepreneur
-Welcome to my GitHub!
-
 ## 👨‍💻 What do I do?
 - Web3 projects.
 
-Happy to chat and work together!
+Eager to learn and share knowledge with colleagues and partners. Open to networking with like-minded individuals and new people in this exciting field!
 
