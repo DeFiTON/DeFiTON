@@ -16,4 +16,3 @@ Welcome to my GitHub!
 
 Happy to chat and work together!
 
-![Statistics GitHub](https://github-readme-stats.vercel.app/api?username=DeFiTON&show_icons=true)
