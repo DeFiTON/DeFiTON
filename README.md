@@ -1,16 +1,19 @@
-### Hi there 👋
+## 📫 How to contact me?
 
-<!--
-**DeFiTON/DeFiTON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Twitter](https://twitter.com/gusevlife)
+- [LinkedIn](https://www.linkedin.com/in/gusevlife/)
+- [Instagram](https://www.instagram.com/gusevsvyatoslav/)
+- [Telegram](https://t.me/gusevself)
+- [VK](https://vk.com/gusevlive)
+- [Figma](https://www.figma.com/@gusev)
+- [Behance](https://www.behance.net/sviatoshusiev)
 
-Here are some ideas to get you started:
+## 🎓 Entrepreneur
+Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 What do I do?
+- Web3 projects.
+
+Happy to chat and work together!
+
+![Statistics GitHub](https://github-readme-stats.vercel.app/api?username=DeFiTON&show_icons=true)
