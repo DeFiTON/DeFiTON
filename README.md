@@ -1,5 +1,5 @@
 # 🎓 Entrepreneur
-Entrepreneur in the Web3 business space with interests in IT. Passionate about innovation and growth in the rapidly evolving tech industry. 
+As a diligent seeker, I aspire to incorporate a plethora of captivating and enlightening moments into my life, wholeheartedly believing that our every opportunity serves as a chance for fresh growth and advancement. I actively engage in global investment exploration, skillfully allocating my resources into various other projects.
 
 ## 📫 How to contact me?
 
@@ -12,9 +12,10 @@ Entrepreneur in the Web3 business space with interests in IT. Passionate about i
 - [Behance](https://www.behance.net/sviatoshusiev)
 - [TenChat](https://tenchat.ru/gusev)
 - [Pinterest](https://ru.pinterest.com/gusevlive/)
+- [Gravatar](https://ru.gravatar.com/realkrafty)
 
 ## 👨‍💻 What do I do?
-- Web3 projects.
+- Web3 projects
+- SEO & SMM
 
-Eager to learn and share knowledge with colleagues and partners. Open to networking with like-minded individuals and new people in this exciting field!
-
+An entrepreneur in the Web3 business arena, my interests lie within the realm of IT. I am passionately captivated by innovations and the burgeoning evolution within the fast-paced tech industry. My inclination towards learning is matched only by my enthusiasm for sharing knowledge with colleagues and partners. I am open to connecting with like-minded individuals and newcomers in this riveting sphere!
