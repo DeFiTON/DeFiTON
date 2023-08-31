@@ -24,9 +24,11 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [VC](https://vc.ru/gusev)
 - [Patreon](https://www.patreon.com/gusev)
 - [Boosty](https://boosty.to/defi)
+- [Threads](https://www.threads.net/@gusevsvyatoslav)
 
 ## 👨‍💻 What do I do?
-- Web3 projects
-- SEO & SMM
+- Help with developing Web3 projects
+- SEO & SMM business consulting
+- Useful tools for community work
 
 An entrepreneur in the Web3 business arena, my interests lie within the realm of IT. I am passionately captivated by innovations and the burgeoning evolution within the fast-paced tech industry. My inclination towards learning is matched only by my enthusiasm for sharing knowledge with colleagues and partners. I am open to connecting with like-minded individuals and newcomers in this riveting sphere!
