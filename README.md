@@ -26,6 +26,7 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [Boosty](https://boosty.to/defi)
 - [Threads](https://www.threads.net/@gusevsvyatoslav)
 - [Habr](https://habr.com/ru/users/SviatoslavGusev/)
+- [YouTube](https://www.youtube.com/channel/UC0P5U9hZjOQ_jL0nNqK-rmw)
 
 ## 👨‍💻 What do I do?
 - Help with developing Web3 projects
