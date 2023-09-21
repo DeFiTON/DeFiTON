@@ -1,5 +1,5 @@
-# 🎓 Entrepreneur
-As a diligent seeker, I aspire to incorporate a plethora of captivating and enlightening moments into my life, wholeheartedly believing that our every opportunity serves as a chance for fresh growth and advancement. I actively engage in global investment exploration, skillfully allocating my resources into various other projects.
+# 🎓 Entrepreneur & Investor
+Deeply rooted in the IT realm, I fuse my passion for exploration with tangible insights. As an investor, I strategically channel my capital into promising blockchain ventures, positioning them at the forefront of Web3 innovations. My open-source developer side thrives on crafting solutions that benefit the community. Each venture I undertake is a testament to my belief in seizing opportunities for growth and advancement.
 
 ## 📫 How to contact me?
 
