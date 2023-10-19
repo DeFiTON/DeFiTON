@@ -10,6 +10,7 @@ Deeply rooted in the IT realm, I fuse my passion for exploration with tangible i
 - [VK Public](https://vk.com/btc.bitcoin)
 - [VK Group](https://vk.com/gusevself)
 - [Odnoklassniki](https://ok.ru/gusevlive)
+- [TikTok - ТикТок](https://www.tiktok.com/@gusevsvyatoslav?lang=ru-RU)
 - [Figma](https://www.figma.com/@gusev)
 - [Behance](https://www.behance.net/sviatoshusiev)
 - [TenChat](https://tenchat.ru/gusev)
