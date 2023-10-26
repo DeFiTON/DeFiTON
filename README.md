@@ -4,13 +4,13 @@ Deeply rooted in the IT realm, I fuse my passion for exploration with tangible i
 ## 📫 How to contact me?
 
 - [Twitter](https://twitter.com/gusevlife)
+- [Threads](https://www.threads.net/@gusevsvyatoslav)
 - [LinkedIn](https://www.linkedin.com/in/gusevlife/)
 - [Instagram](https://www.instagram.com/gusevsvyatoslav/)
 - [Telegram](https://t.me/gusevself)
 - [VK Public](https://vk.com/btc.bitcoin)
 - [VK Group](https://vk.com/gusevself)
-- [Odnoklassniki](https://ok.ru/gusevlive)
-- [TikTok - ТикТок](https://www.tiktok.com/@gusevsvyatoslav?lang=ru-RU)
+- [OK](https://ok.ru/gusevlive)
 - [Figma](https://www.figma.com/@gusev)
 - [Behance](https://www.behance.net/sviatoshusiev)
 - [TenChat](https://tenchat.ru/gusev)
@@ -25,9 +25,10 @@ Deeply rooted in the IT realm, I fuse my passion for exploration with tangible i
 - [VC](https://vc.ru/gusev)
 - [Patreon](https://www.patreon.com/gusev)
 - [Boosty](https://boosty.to/defi)
-- [Threads](https://www.threads.net/@gusevsvyatoslav)
-- [Habr](https://habr.com/ru/users/SviatoslavGusev/)
 - [YouTube](https://www.youtube.com/channel/UC0P5U9hZjOQ_jL0nNqK-rmw)
+- [TikTok](https://www.tiktok.com/@gusevsvyatoslav?lang=ru-RU)
+- [Yappy](https://yappy.media/s/p_154k8lW7UG3C2aDNhXLWdx)
+- [Likee](https://l.likee.video/p/hciIKo)
 
 ## 👨‍💻 What do I do?
 - Help with developing Web3 projects
