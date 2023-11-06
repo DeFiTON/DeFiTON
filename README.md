@@ -1,4 +1,6 @@
 # 🎓 Entrepreneur & Investor
+Entrepreneur. Student at University for Industry and Finance "Synergy". Development and product management of decentralized projects. Love open-source & Web3.
+
 Deeply rooted in the IT realm, I fuse my passion for exploration with tangible insights. As an investor, I strategically channel my capital into promising blockchain ventures, positioning them at the forefront of Web3 innovations. My open-source developer side thrives on crafting solutions that benefit the community. Each venture I undertake is a testament to my belief in seizing opportunities for growth and advancement.
 
 ## 📫 How to contact me?
