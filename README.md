@@ -1,7 +1,28 @@
-# 🎓 Entrepreneur & Investor
-Firmly entrenched in the IT domain, I merge my zeal for exploration with meaningful insights. As an investor, I meticulously allocate my resources to blockchain ventures with high potential, steering them to the forefront of Web3 breakthroughs. My enthusiasm for open-source development is channeled into creating community-enriching solutions. Each project I engage in reflects my commitment to growth and progress.
+# 🎓 Entrepreneur
+As a diligent seeker, I aspire to incorporate a plethora of captivating and enlightening moments into my life, wholeheartedly believing that our every opportunity serves as a chance for fresh growth and advancement. I actively engage in global investment exploration, skillfully allocating my resources into various other projects.
 
-Balancing entrepreneurship with my studies at the University for Industry and Finance "Synergy," I specialize in the development and management of decentralized projects. My passion for open-source and Web3 not only shapes my academic and professional journey but also defines my approach to the digital future.
+## 📫 How to contact me?
+
+- [Twitter](https://twitter.com/gusevlife)
+- [LinkedIn](https://www.linkedin.com/in/gusevlife/)
+- [Instagram](https://www.instagram.com/gusevsvyatoslav/)
+- [Telegram](https://t.me/gusevself)
+- [VK Public](https://vk.com/btc.bitcoin)
+- [VK Group](https://vk.com/gusevself)
+- [Odnoklassniki](https://ok.ru/gusevlive)
+- [Figma](https://www.figma.com/@gusev)
+- [Behance](https://www.behance.net/sviatoshusiev)
+- [Pinterest](https://pinterest.com/gusevlive/)
+- [Facebook](https://www.facebook.com/profile.php?id=100092535331385)
+- [Medium](https://mediaboss.medium.com/)
+- [Teletype](https://teletype.in/@gusevlife)
+- [Spark](https://spark.ru/startup/gusev)
+- [Dzen](https://dzen.ru/id/5d1f684d64271d00adc44e90)
+- [Livejournal](https://gusevself.livejournal.com/)
+- [VC](https://vc.ru/gusev)
+- [Patreon](https://www.patreon.com/gusev)
+- [Boosty](https://boosty.to/defi)
+- [Threads](https://www.threads.net/@gusevsvyatoslav)
 
 ## 👨‍💻 What do I do?
 - Help with developing Web3 projects
