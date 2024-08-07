@@ -18,7 +18,6 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [Teletype](https://teletype.in/@gusevlife)
 - [Spark](https://spark.ru/startup/gusev)
 - [Dzen](https://dzen.ru/id/5d1f684d64271d00adc44e90)
-- [Livejournal](https://gusevself.livejournal.com/)
 - [VC](https://vc.ru/gusev)
 - [Patreon](https://www.patreon.com/gusev)
 - [Boosty](https://boosty.to/defi)
