@@ -9,7 +9,7 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [Telegram](https://t.me/gusevself)
 - [VK Public](https://vk.com/btc.bitcoin)
 - [VK Group](https://vk.com/gusevself)
-- [Odnoklassniki](https://ok.ru/gusevlive)
+- [Kick](https://kick.com/gusevlive)
 - [Figma](https://www.figma.com/@gusev)
 - [Behance](https://www.behance.net/sviatoshusiev)
 - [Pinterest](https://pinterest.com/gusevlive/)
