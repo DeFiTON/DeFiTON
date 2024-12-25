@@ -24,6 +24,7 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [VC](https://vc.ru/gusev)
 - [Patreon](https://www.patreon.com/gusev)
 - [Boosty](https://boosty.to/defi)
+- [Fansly](https://fansly.com/sviatoslavgusev/posts)
 - [Threads](https://www.threads.net/@gusevsvyatoslav)
 
 ## 👨‍💻 What do I do?
