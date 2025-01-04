@@ -3,12 +3,13 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 
 ## 📫 How to contact me?
 
-- [Twitter](https://twitter.com/gusevlife)
+- [Twitter (X)](https://x.com/gusevlife)
 - [LinkedIn](https://www.linkedin.com/in/gusevlife/)
 - [Instagram](https://www.instagram.com/gusevsvyatoslav/)
 - [Telegram](https://t.me/gusevself)
 - [VK Public](https://vk.com/btc.bitcoin)
 - [VK Group](https://vk.com/gusevself)
+- [Twitch](https://www.twitch.tv/gusevtv)
 - [Kick](https://kick.com/gusevlive)
 - [Figma](https://www.figma.com/@gusev)
 - [Behance](https://www.behance.net/sviatoshusiev)
