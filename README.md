@@ -4,8 +4,8 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 ## 📫 How to contact me?
 
 - [My website](https://gusev.biz) [open-source](https://github.com/GusevSviatodslav/.github)
-- [RU website](https://gusevlife.com)[open-source](https://github.com/ViWide-Music-Videos/.github)
-- [EN website](https://socforce.com)[open-source](https://github.com/Guru-Venture-Capital/.github)
+- [RU website](https://gusevlife.com) [open-source](https://github.com/ViWide-Music-Videos/.github)
+- [EN website](https://socforce.com) [open-source](https://github.com/Guru-Venture-Capital/.github)
 - [Twitter (X)](https://x.com/gusevlife)
 - [LinkedIn](https://www.linkedin.com/in/gusevlife/)
 - [Instagram](https://www.instagram.com/gusevsvyatoslav/)
