@@ -32,6 +32,8 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [Boosty](https://boosty.to/sviatoslav)
 - [Fansly](https://fansly.com/sviatoslavgusev/posts)
 - [Threads](https://www.threads.net/@gusevsvyatoslav)
+- [Pinterest](https://www.pinterest.com/gusevlife/)
+- [Coub](https://coub.com/gusevsviatoslav)
 
 ## 👨‍💻 What do I do?
 - Help with developing Web3 projects
