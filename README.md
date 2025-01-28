@@ -34,8 +34,13 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [Threads](https://www.threads.net/@gusevsvyatoslav)
 - [Pinterest](https://www.pinterest.com/gusevlife/)
 - [Coub](https://coub.com/gusevsviatoslav)
+- [Substack](https://shurygina.substack.com)
+- [Yakihonne](https://yakihonne.com/users/nprofile1qqsy5z5u85gzhel6cvsh4tk2n4r3t3frd622pwq2mh3kxrf4gu04ljszqqpsgqqqqqqq78p5qu)
+- [Warpcast](https://warpcast.com/shurygina)
+- [Truthsocial](https://truthsocial.com/@sviatoslavgusev)
+- [Dorahacks](https://dorahacks.io/hacker/gusev)
 
-## 👨‍💻 What do I do?
+### 👨‍💻 What do I do?
 - Help with developing Web3 projects
 - SEO & SMM business consulting
 - Useful tools for community work
