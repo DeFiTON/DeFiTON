@@ -39,6 +39,11 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [Warpcast](https://warpcast.com/shurygina)
 - [Truthsocial](https://truthsocial.com/@sviatoslavgusev)
 - [Dorahacks](https://dorahacks.io/hacker/gusev)
+- [VSCO](https://vsco.co/sviatoslavgusev/gallery)
+- [Bluesky](https://bsky.app/profile/gusevlife.bsky.social)
+- [NUUM](https://nuum.ru/channel/GusevSviatoslav)
+- [Yappy](https://yappy.media/n/gusevsviatoalav)
+- [Likee](https://l.likee.video/p/Tp1jpT)
 
 ### 👨‍💻 What do I do?
 - Help with developing Web3 projects
