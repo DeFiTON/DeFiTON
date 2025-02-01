@@ -44,6 +44,7 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [NUUM](https://nuum.ru/channel/GusevSviatoslav)
 - [Yappy](https://yappy.media/n/gusevsviatoalav)
 - [Likee](https://l.likee.video/p/Tp1jpT)
+- [Trovo](https://trovo.live/s/gusevlive)
 
 ### 👨‍💻 What do I do?
 - Help with developing Web3 projects
