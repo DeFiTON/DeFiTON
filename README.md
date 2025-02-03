@@ -51,8 +51,8 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - Useful tools for community work
 
 ### Deeply immersed in the IT world, exploring with passion and gaining insights. Actively investing in blockchain ventures at the very nexus of Web3 innovations.
-- [https://www.tbank.ru/invest/social/profile/GusevSvyatoslav/](Tinkoff Bank)
-- [https://bcs-express.ru/profit/profile/1ca13112-1a03-4b94-ae64-d64168a0c6d1](BCS Bank)
+- [Tinkoff Bank](https://www.tbank.ru/invest/social/profile/GusevSvyatoslav/)
+- [BSC Bank](https://bcs-express.ru/profit/profile/1ca13112-1a03-4b94-ae64-d64168a0c6d1)
 - [Binance](https://www.binance.com/ru/square/profile/gusev)
 - [CoinMarketCap](https://coinmarketcap.com/community/ru/profile/JasonGatsby/)
 
