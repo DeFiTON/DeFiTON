@@ -55,5 +55,6 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [BSC Bank](https://bcs-express.ru/profit/profile/1ca13112-1a03-4b94-ae64-d64168a0c6d1)
 - [Binance](https://www.binance.com/ru/square/profile/gusev)
 - [CoinMarketCap](https://coinmarketcap.com/community/ru/profile/JasonGatsby/)
+- [TradingView](https://ru.tradingview.com/u/DeFiTON/)
 
 An entrepreneur in the Web3 business arena, my interests lie within the realm of IT. I am passionately captivated by innovations and the burgeoning evolution within the fast-paced tech industry. My inclination towards learning is matched only by my enthusiasm for sharing knowledge with colleagues and partners. I am open to connecting with like-minded individuals and newcomers in this riveting sphere!
