@@ -8,6 +8,7 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [LinkedIn](https://www.linkedin.com/in/gusevlife/)
 - [Telegram RU](https://t.me/gusevself)
 - [Figma](https://www.figma.com/@gusev)
+- [Truth Social](https://truthsocial.com/@sviatoslavgusev)
 
 ## 📫 How to contact me?
 - [Instagram](https://www.instagram.com/gusevsvyatoslav/)
@@ -26,7 +27,8 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [TikTok](https://www.tiktok.com/@gusevsvyatoslav)
 - [OnlyFans](https://onlyfans.com/gusevlive)
 - [Rutube](https://rutube.ru/channel/36690205/)
-- [VC](https://vc.ru/gusev)
+- [VC](https://vc.ru/id8612)
+- [DTF](https://dtf.ru/id2471401)
 - [Patreon](https://www.patreon.com/gusev)
 - [Boosty](https://boosty.to/sviatoslav)
 - [Fansly](https://fansly.com/sviatoslavgusev/posts)
