@@ -44,6 +44,8 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [Yappy](https://yappy.media/n/gusevsviatoalav)
 - [Likee](https://l.likee.video/p/Tp1jpT)
 - [Trovo](https://trovo.live/s/gusevlive)
+- [Linktr](https://linktr.ee/JasonGatsby)
+- [Beacons](https://beacons.ai/gusev_
 
 ## 👨‍💻 What do I do?
 - Help with developing Web3 projects
