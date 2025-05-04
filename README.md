@@ -16,14 +16,12 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [VK Group](https://vk.com/gusevself)
 - [Twitch](https://www.twitch.tv/gusevtv)
 - [Kick](https://kick.com/gusevlive)
-- [Behance](https://www.behance.net/sviatoshusiev)
 - [Pinterest](https://pinterest.com/gusevlive/)
 - [Facebook](https://www.facebook.com/profile.php?id=100092535331385)
 - [Medium](https://mediaboss.medium.com/)
 - [Teletype](https://teletype.in/@gusevlife)
 - [Spark](https://spark.ru/startup/gusev)
 - [Dzen](https://dzen.ru/gusevlive)
-- [Yandex](https://yandex.com/profile/12695587531)
 - [TikTok](https://www.tiktok.com/@gusevsvyatoslav)
 - [OnlyFans](https://onlyfans.com/gusevlive)
 - [Rutube](https://rutube.ru/channel/36690205/)
@@ -51,6 +49,11 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - Help with developing Web3 projects
 - SEO & SMM business consulting
 - Useful tools for community work
+
+- [HH](https://hh.ru/employer/4705305)
+- [Habr Career](https://career.habr.com/jasongatsby)
+- [Yandex](https://yandex.com/profile/12695587531)
+- [Behance](https://www.behance.net/sviatoshusiev)
 
 ### Deeply immersed in the IT world, exploring with passion and gaining insights. Actively investing in blockchain ventures at the very nexus of Web3 innovations.
 - [Tinkoff Bank](https://www.tbank.ru/invest/social/profile/GusevSvyatoslav/)
