@@ -9,6 +9,7 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [Telegram RU](https://t.me/gusevself)
 - [Figma](https://www.figma.com/@gusev)
 - [Truth Social](https://truthsocial.com/@sviatoslavgusev)
+- [Substack](https://substack.com/@gusevsviatoslav)
 
 ## 📫 How to contact me?
 - [Instagram](https://www.instagram.com/gusevsvyatoslav/)
@@ -40,12 +41,20 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [Dorahacks](https://dorahacks.io/hacker/gusev)
 - [VSCO](https://vsco.co/sviatoslavgusev/gallery)
 - [Bluesky](https://bsky.app/profile/gusevlife.bsky.social)
+- [Trovo](https://trovo.live/s/gusevlive)
+- [Linktr](https://linktr.ee/JasonGatsby)
+- [Beacons](https://beacons.ai/gusev)
+
+## Video: Reals and Shorts
 - [NUUM](https://nuum.ru/channel/GusevSviatoslav)
 - [Yappy](https://yappy.media/n/gusevsviatoalav)
 - [Likee](https://l.likee.video/p/Tp1jpT)
-- [Trovo](https://trovo.live/s/gusevlive)
-- [Linktr](https://linktr.ee/JasonGatsby)
-- [Beacons](https://beacons.ai/gusev_
+
+## Personal and private pages
+- [Lava](https://app.lava.top/gusev)
+
+## Entertainment pages, movies, and music
+- [IMDB](https://www.imdb.com/user/ur130561642/)
 
 ## 👨‍💻 What do I do?
 - Help with developing Web3 projects
