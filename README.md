@@ -45,6 +45,10 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [Linktr](https://linktr.ee/JasonGatsby)
 - [Beacons](https://beacons.ai/gusev)
 
+## Project development
+- [GitHub](https://github.com/DeFiTON)
+- [Replit](https://replit.com/@DeFiTON)
+
 ## Video: Reals and Shorts
 - [NUUM](https://nuum.ru/channel/GusevSviatoslav)
 - [Yappy](https://yappy.media/n/gusevsviatoalav)
