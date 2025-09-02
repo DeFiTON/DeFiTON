@@ -260,6 +260,11 @@
 [![Beacons](https://img.shields.io/badge/Beacons-@gusev-FF5C5C?style=for-the-badge)](https://beacons.ai/gusev)
 [![Lava](https://img.shields.io/badge/Lava-@gusev-FF6B6B?style=for-the-badge)](https://app.lava.top/gusev)
 
+### 🌟 Additional Platforms
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092535331385)
+[![Yakihonne](https://img.shields.io/badge/Yakihonne-Profile-FF6B35?style=for-the-badge)](https://yakihonne.com/users/nprofile1qqsy5z5u85gzhel6cvsh4tk2n4r3t3frd622pwq2mh3kxrf4gu04ljszqqpsgqqqqqqq78p5qu)
+[![Substack Alt](https://img.shields.io/badge/Substack_Alt-@shurygina-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://shurygina.substack.com)
+
 </div>
 
 ---
@@ -350,6 +355,33 @@
 </tr>
 </table>
 
+### 📍 Real-Time Status
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00D9FF" alt="Spotify Status"/>
+
+### ⏰ Current Time & Weather
+![Time Zone](https://img.shields.io/badge/⏰_Current_Time-UTC-00D9FF?style=for-the-badge)
+![Weather](https://img.shields.io/badge/🌤️_Weather-Dynamic-4ECDC4?style=for-the-badge)
+
+</div>
+
+---
+
+## 📈 Comprehensive Metrics Dashboard
+
+<div align="center">
+
+### 📊 GitHub Performance Overview
+<img src="https://metrics.lecoq.io/DeFiTON?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=UTC" alt="Metrics"/>
+
+### 🔥 Detailed Activity Analysis
+<img src="https://metrics.lecoq.io/DeFiTON?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=UTC" alt="Activity"/>
+
+### 💻 Programming Languages Deep Dive
+<img src="https://metrics.lecoq.io/DeFiTON?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=UTC" alt="Languages"/>
+
+### 🎯 Repository Analytics
+<img src="https://metrics.lecoq.io/DeFiTON?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=1&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=UTC" alt="Repositories"/>
+
 </div>
 
 ---
@@ -393,18 +425,51 @@
 
 <div align="center">
 
-### 📅 Latest Activity & Updates
+---
+
+<div align="center">
+
+### 💭 Professional Philosophy
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower&author=Steve%20Jobs" alt="Quote"/>
+
+### 📅 Latest Activity & GitHub Insights
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### 🔥 Contribution Streak
+### 📈 Real-Time Coding Stats
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DeFiTON&theme=tokyonight&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&layout=compact" alt="Wakatime Stats" />
+
+### 🔥 Contribution Streak & Snake Animation
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/DeFiTON/DeFiTON/output/github-contribution-grid-snake-dark.svg)
+
+### 🌟 Dynamic Profile Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=DeFiTON&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=DeFiTON%27s%20GitHub%20Statistics&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&border_color=00D9FF" alt="GitHub Stats" />
+
+---
+
+### 🏅 GitHub Achievements & Trophies
+![](https://github-profile-trophy.vercel.app/?username=DeFiTON&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)
 
 ---
 
 <sub>⭐ **Star this repository if you find it interesting!** ⭐</sub>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=30&lines=Thank+you+for+visiting+my+profile!;Feel+free+to+reach+out+for+collaborations;Building+the+future%2C+one+commit+at+a+time" alt="Footer" />
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/github/last-commit/DeFiTON/DeFiTON?style=for-the-badge&color=00D9FF&label=LAST%20UPDATED"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Made%20with-❤️-FF6B6B?style=for-the-badge"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-4ECDC4?style=for-the-badge"/>
+</td>
+</tr>
+</table>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=50&lines=🚀+Thank+you+for+visiting+my+profile!;💡+Feel+free+to+reach+out+for+collaborations;🌟+Building+the+future%2C+one+commit+at+a+time;🔥+Open+to+new+opportunities+and+partnerships;💎+Investing+in+tomorrow's+technology+today" alt="Footer" />
 
 </div>
