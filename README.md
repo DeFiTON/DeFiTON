@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=DeFiTON&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=The%20Ultimate%20DeFi%20Ecosystem%20on%20TON%20Blockchain&descAlignY=51&descSize=20" />
+
 # 🌊 DeFiTON
 ### The Ultimate DeFi Ecosystem on TON Blockchain
 
@@ -20,6 +22,42 @@
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Welcome+to+DeFiTON!;Next-Gen+DeFi+on+TON;Build+the+Future+of+Finance;Decentralized+%E2%80%A2+Secure+%E2%80%A2+Scalable" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 📋 Table of Contents
+
+<details>
+<summary>🗂️ <b>Click to expand navigation</b></summary>
+
+- [📊 Live Statistics](#-live-statistics)
+- [🌟 Key Features](#-key-features)
+- [🏗️ Architecture](#️-architecture)
+- [💰 Tokenomics](#-tokenomics)
+- [📈 Performance Metrics](#-performance-metrics)
+- [🛠️ Getting Started](#️-getting-started)
+- [🔮 Smart Contracts](#-smart-contracts)
+- [🔐 Security & Audits](#-security--audits)
+- [📱 Supported Platforms](#-supported-platforms)
+- [🎯 Roadmap](#-roadmap)
+- [🤝 Contributing](#-contributing)
+- [👨‍💻 Team](#-team)
+- [🌐 Community & Social](#-community--social)
+- [📊 Ecosystem Partners](#-ecosystem-partners)
+- [📜 License & Legal](#-license--legal)
+
+</details>
+
+<div align="center">
+
+### 📊 **Live Data Feed**
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDeFiTON%2FDeFiTON&label=Visitors&countColor=%2300d4aa&style=flat&labelStyle=none)
+![Last Commit](https://img.shields.io/github/last-commit/DeFiTON/DeFiTON?color=00d4aa&style=flat&label=Last%20Update)
+![Repo Size](https://img.shields.io/github/repo-size/DeFiTON/DeFiTON?color=0088cc&style=flat&label=Repo%20Size)
+![Languages](https://img.shields.io/github/languages/count/DeFiTON/DeFiTON?color=purple&style=flat&label=Languages)
 
 </div>
 
@@ -243,6 +281,122 @@ DATABASE_URL=your_database_connection_string
 # Frontend Configuration
 REACT_APP_API_URL=http://localhost:3000
 REACT_APP_CHAIN_ID=testnet
+```
+
+## 🔧 API & Developer Tools
+
+### 📡 **REST API Endpoints**
+
+<div align="center">
+
+[![API Status](https://img.shields.io/badge/API%20Status-Online-brightgreen?style=for-the-badge&logo=api)](https://api.defiton.com/status)
+[![API Version](https://img.shields.io/badge/Version-v2.1.0-blue?style=for-the-badge&logo=version)](https://api.defiton.com/docs)
+[![Rate Limit](https://img.shields.io/badge/Rate%20Limit-1000%2Fmin-orange?style=for-the-badge&logo=speedometer)](https://api.defiton.com/docs)
+
+</div>
+
+```bash
+# Base URL
+https://api.defiton.com/v2
+
+# Authentication
+curl -H "Authorization: Bearer YOUR_API_KEY" \
+     https://api.defiton.com/v2/pools
+
+# Get liquidity pools
+GET /pools
+GET /pools/{pool_id}
+GET /pools/{pool_id}/stats
+
+# Trading operations
+POST /swap
+POST /add-liquidity
+POST /remove-liquidity
+
+# User operations
+GET /user/{address}/portfolio
+GET /user/{address}/transactions
+GET /user/{address}/rewards
+```
+
+### 🛠️ **SDK Examples**
+
+<table>
+<tr>
+<td width="50%">
+
+**JavaScript/TypeScript**
+```typescript
+import { DeFiTON } from '@defiton/sdk';
+
+const defiton = new DeFiTON({
+  network: 'mainnet',
+  apiKey: 'your-api-key'
+});
+
+// Swap tokens
+const swapResult = await defiton.swap({
+  fromToken: 'TON',
+  toToken: 'USDT',
+  amount: '100',
+  slippage: 0.5
+});
+
+// Add liquidity
+const liquidityResult = await defiton.addLiquidity({
+  tokenA: 'TON',
+  tokenB: 'USDT',
+  amountA: '50',
+  amountB: '100'
+});
+```
+
+</td>
+<td width="50%">
+
+**Python**
+```python
+from defiton import DeFiTON
+
+client = DeFiTON(
+    network='mainnet',
+    api_key='your-api-key'
+)
+
+# Get pool information
+pool = client.get_pool('TON-USDT')
+print(f"TVL: ${pool.tvl}")
+print(f"APY: {pool.apy}%")
+
+# Execute swap
+result = client.swap(
+    from_token='TON',
+    to_token='USDT',
+    amount=100,
+    slippage=0.5
+)
+```
+
+</td>
+</tr>
+</table>
+
+### 🔌 **WebSocket API**
+
+```javascript
+// Real-time price updates
+const ws = new WebSocket('wss://ws.defiton.com/v2/prices');
+
+ws.on('message', (data) => {
+  const priceUpdate = JSON.parse(data);
+  console.log(`${priceUpdate.pair}: $${priceUpdate.price}`);
+});
+
+// Subscribe to specific pairs
+ws.send(JSON.stringify({
+  action: 'subscribe',
+  pairs: ['TON-USDT', 'TON-BTC', 'DTON-TON']
+}));
 ```
 
 ## 🔮 Smart Contracts
@@ -531,7 +685,51 @@ This project is licensed under the **Apache License 2.0**. See the [LICENSE](LIC
 [![Documentation](https://img.shields.io/badge/Documentation-0088CC?style=for-the-badge&logo=gitbook&logoColor=white)](https://docs.defiton.com)
 [![GitHub](https://img.shields.io/badge/Star%20on%20GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeFiTON/DeFiTON)
 
+</div>
+
+---
+
+<div align="center">
+
+### 🌊 **Wave Animation**
+
+```
+🌊 ～～～～～～～～～～～～～～～～～～～～～～～～～～～～ 🌊
+   DeFiTON: Riding the Wave of Decentralized Finance
+🌊 ～～～～～～～～～～～～～～～～～～～～～～～～～～～～ 🌊
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4AA&height=120&section=footer&text=Thank%20You!&fontSize=30&fontColor=ffffff&animation=twinkling" />
+
 **Built with ❤️ by the DeFiTON Team | Powered by TON Blockchain**
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=3000&color=00D4AA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Star+⭐+if+you+like+it!;Follow+for+updates;Happy+DeFi+trading!" alt="Footer Typing SVG" />
+
+### 📊 **Repository Statistics**
+
+![DeFiTON Repository Stats](https://github-readme-stats.vercel.app/api?username=DeFiTON&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeFiTON&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)
+
+### 🏆 **Achievements**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeFiTON&theme=react-dark&bg_color=0D1117&color=00D4AA&line=0088CC&point=FFFFFF&area=true&hide_border=true)
+
+### ⚡ **Quick Stats**
+
+![Profile Views](https://komarev.com/ghpvc/?username=DeFiTON&label=Profile%20views&color=00d4aa&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/DeFiTON?label=Follow&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/DeFiTON?label=Stars&style=social)
 
 </div>
 
@@ -539,4 +737,13 @@ This project is licensed under the **Apache License 2.0**. See the [LICENSE](LIC
 
 <div align="center">
 <sub>🌊 Making DeFi accessible to everyone, one transaction at a time.</sub>
+
+<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy coding!</b> Feel free to reach out if you have any questions or need assistance.</em>
+
+<br/>
+
+**© 2024 DeFiTON. All rights reserved.**
+
 </div>
