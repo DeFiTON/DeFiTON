@@ -44,10 +44,17 @@ As a diligent seeker, I aspire to incorporate a plethora of captivating and enli
 - [Trovo](https://trovo.live/s/gusevlive)
 - [Linktr](https://linktr.ee/JasonGatsby)
 - [Beacons](https://beacons.ai/gusev)
+- [About me](https://about.me/sviatoslav)
+- [Wellfound](https://wellfound.com/u/defiton)
+
+## Call me
+- [Call me](https://cal.com/gusev)
 
 ## Project development
 - [GitHub](https://github.com/DeFiTON)
 - [Replit](https://replit.com/@DeFiTON)
+- [Devto](https://dev.to/toncoin)
+- [Peerlist](https://peerlist.io/gusev)
 
 ## Video: Reals and Shorts
 - [NUUM](https://nuum.ru/channel/GusevSviatoslav)
